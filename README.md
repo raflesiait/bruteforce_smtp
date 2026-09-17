@@ -527,3 +527,7 @@ Focus:
 * Network Security
 * Mobile Application Security
 * Security Research
+
+<img width="1445" height="680" alt="image" src="https://github.com/user-attachments/assets/e83d5f2e-10de-44e4-9ca3-7d3e54840086" />
+<img width="1764" height="763" alt="image" src="https://github.com/user-attachments/assets/f28b1da6-e9fd-4605-bdfb-6d78345591d8" />
+
