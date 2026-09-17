@@ -17,6 +17,9 @@ Designed for authorized penetration testing, security labs, CTFs, and SMTP secur
 * ⚙️ Configurable target, port, wordlist, method, domain, timeout, delay, and retry count
 * 🐍 Python 3 compatible
 * 📦 No external Python packages required
+* ⏳ Automatic delay and retry when SMTP rate limiting is detected
+* 🔁 Automatically resumes enumeration after temporary SMTP throttling
+* 🔓 Rate-limit recovery mechanism to bypass enumeration interruption caused by Too Many Requests
 
 ---
 
